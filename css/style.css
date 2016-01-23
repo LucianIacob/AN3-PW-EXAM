@@ -1,0 +1,64 @@
+#loginform {
+    margin: 40px auto;
+    width: 350px;
+}
+
+.list-inline {
+    color: black;
+}
+
+#container {
+    margin-left: 30px;
+}
+
+#newevent {
+    margin: 40px auto 40px 40px;
+}
+
+body {
+    background-image: url(../img/bg.jpg);
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+}
+
+table, td, tr {
+    border: 10px hidden;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h3 {
+    color: white;
+    font-family: "Roboto Thin", sans-serif;
+}
+
+td {
+    color: white;
+    font-family: "Roboto Thin", sans-serif;
+    font-size: medium;
+}
+
+input {
+    color: black;
+    font-family: "Roboto Thin", sans-serif;
+}
+
+textarea {
+    color: black;
+    font-family: "Roboto Thin", sans-serif;
+}
+
+a {
+    color: white;
+    font-family: "Roboto Medium", sans-serif;
+    font-size: large;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
